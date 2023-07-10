@@ -23,7 +23,7 @@ sudo git clone https://github.com/MukeshKaswan1/About.git
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/MukeshKaswan1/About.git
 ```
 
 ## Contact
